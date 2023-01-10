@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="core.dao.postgresql.DaoPostgresqlNacionalidade"/>
+    <fullyQualifiedTypeName name="java.lang.Enum"/>
+    <fullyQualifiedTypeName name="core.dao.ManagerDb"/>
+    <fullyQualifiedTypeName name="core.service.UsuarioService"/>
+    <fullyQualifiedTypeName name="core.dao.FactoryDao"/>
+    <fullyQualifiedTypeName name="core.dao.DaoColaborador"/>
+    <fullyQualifiedTypeName name="core.dao.postgresql.DaoPostgresqlUsuario"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,7 @@
+package br.com.senai.core.dao;
+
+public class ManagerDb {
+	private static ManagerDb manager;
+	
+	private Connection conexao
+}
